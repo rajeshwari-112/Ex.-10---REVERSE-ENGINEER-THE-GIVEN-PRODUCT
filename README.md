@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 12--11-2025
+### DATE:
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -37,8 +37,8 @@
 <img width="1320" height="792" alt="Screenshot (585)" src="https://github.com/user-attachments/assets/d71eb3e6-2af1-403a-ab1b-6bd550562075" />
 
 
-### Name:Akshaya S
-### Register Number:212223220006
+### Name:RAJESHWARI M
+### Register Number:212224040262
 
 
 ## RESULT:
